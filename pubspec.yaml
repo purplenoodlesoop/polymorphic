@@ -1,0 +1,16 @@
+name: polymorphic
+description: Generator for library code which utilizes pseudopolymorphism on the amount of type parameters
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.3.0
+
+# Add regular dependencies here.
+dependencies:
+  code_builder: ^4.10.0
+  dart_style: ^2.3.6
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^3.0.0
